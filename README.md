@@ -1,8 +1,8 @@
 # Hello there 👋 
 
-### I'm Vatana Chhorn, 
+### I'm Cai, 
 
-A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻 
+An undergraduate at Zhengzhou University, China, pursuing bachelor’s degree in Coumputer Science and Technology. 👨🏻‍💻 
 
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
