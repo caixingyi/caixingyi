@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=26&pause=1000&color=0078D7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Cai+Xingyi.;AI+%2F+Backend+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=26&pause=1000&color=0078D7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Cai+Xingyi.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=26&pause=1000&color=0078D7&center=true&vCenter=true&width=900&lines=AI+%2F+Backend+Developer.)](https://git.io/typing-svg)
 
 #### 👋 I'm currently focused on AI Agents, Backend Engineering, RAG, MCP, Tool Calling, and Reinforcement Learning.
