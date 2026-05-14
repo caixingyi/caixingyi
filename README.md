@@ -1,11 +1,7 @@
 <div align="center">
 
 ### Hi, I'm Cai Xingyi.
-
-Computer Science student | Backend development | Agent tools | Open source enthusiast
-
 👋 I am open to internship opportunities in backend and agent development.
-
 </div>
 
 ---
