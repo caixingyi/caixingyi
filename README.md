@@ -19,7 +19,13 @@
 </td>
 <td width="50%" valign="top">
 
+### 🛠 Tech Stack
 
+- Python, Golang
+- Django, Gin, GORM
+- RESTful API development
+- MySQL, Redis
+- Docker, Git, Linux, uv
 
 </td>
 </tr>
