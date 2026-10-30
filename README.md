@@ -54,10 +54,16 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caixingyi&show_icons=true&hide_rank=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+      <img height="180em" src="./profile/stats-light.svg" alt="GitHub Stats" />
+    </picture>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caixingyi&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Top Languages" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+      <img height="180em" src="./profile/top-langs-light.svg" alt="Top Languages" />
+    </picture>
   </a>
 </p>
 
